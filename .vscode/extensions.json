@@ -1,11 +1,18 @@
 {
-    "recommendations": [
-        "editorconfig.editorconfig",
-        "anthropic.claude-code",
-        "github.copilot",
-        "github.copilot-chat",
-        "tamasfe.even-better-toml",
-        "rust-lang.rust-analyzer",
-        "tauri-apps.tauri-vscode",
-    ]
+	"recommendations": [
+		// Tools
+		"editorconfig.editorconfig",
+		"tamasfe.even-better-toml",
+		"biomejs.biome",
+
+		// AI
+		"anthropic.claude-code",
+		"github.copilot",
+		"github.copilot-chat",
+
+		// Languages
+		"rust-lang.rust-analyzer",
+		"tauri-apps.tauri-vscode",
+		"davidanson.vscode-markdownlint"
+	]
 }
